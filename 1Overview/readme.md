@@ -79,3 +79,6 @@ K最近邻（KNN，K-NearestNeighbor）分类算法，是比较经典的分类�
 评价指标：sklearn自带函数库
 
 结果：sklearn结果更好【大概是因为我最近时间有点仓促没有对代码进行细看 可能后面会再仔细研究一下 因为精度差别有点大哈哈哈】 评价函数用的是sklearn自带的函数【precision_score】 pyod最后精度是0.3 sklearn是0.9 后续会再看是不是和数据集以及参数设置有关系~
+
+![alt pyod](C:\Users\86198\Desktop\pyod.png)
+![alt sklearn](C:\Users\86198\Desktop\sklearn.png)
