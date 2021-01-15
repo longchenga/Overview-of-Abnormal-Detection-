@@ -26,3 +26,5 @@ HBOS算法基于多维数据各个维度的独立性假设，对于单个数据�
 2.对每个维度都计算了⼀个独⽴的直⽅图，其中每个箱⼦的⾼度表示密度的估计。
 
 检测异常方法：HBOS分值越高，样本越异常
+
+![avatar](https://github.com/longchenga/Overview-of-Abnormal-Detection-/blob/main/2Statistics/HBOS.png)
