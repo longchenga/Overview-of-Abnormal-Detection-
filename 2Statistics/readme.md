@@ -7,7 +7,9 @@ HBOS全名为：Histogram-based Outlier Score。它是⼀种单变量⽅法的�
 
 **一、HBOS背景 **
 
-在网络安全领域，对异常检测算法的效率要求很高，且输入数据往往非常大，这也是为什么半监督学习的异常检测算法往往采用直方图的原因。如果处理的是高维数据，单维度的直方图很容易计算。大多数直方图相关的算法中，常常固定直方图的宽度或者手动设置宽度。论文提出了一种基于直方图的无监督异常检测算法，并且提出了动态宽度的算法以适应不均衡的长尾分布。 论文来源：Histogram-based Outlier Score (HBOS): A fast Unsupervised Anomaly Detection Algorithm
+在网络安全领域，对异常检测算法的效率要求很高，且输入数据往往非常大，这也是为什么半监督学习的异常检测算法往往采用直方图的原因。如果处理的是高维数据，单维度的直方图很容易计算。大多数直方图相关的算法中，常常固定直方图的宽度或者手动设置宽度。论文提出了一种基于直方图的无监督异常检测算法，并且提出了动态宽度的算法以适应不均衡的长尾分布。 
+
+论文来源：Histogram-based Outlier Score (HBOS): A fast Unsupervised Anomaly Detection Algorithm
 
 **二、HBOS简介**
 
